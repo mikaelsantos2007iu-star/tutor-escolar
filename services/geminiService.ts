@@ -50,7 +50,7 @@ export const chatWithGemini = async (
     });
 
     const result = await chat.sendMessage({
-        content: { parts } 
+        message: parts 
     });
 
     return result.text || "Desculpe, não consegui processar sua solicitação.";
