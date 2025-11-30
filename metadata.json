@@ -1,0 +1,8 @@
+{
+  "name": "Tutor Escolar do mikael",
+  "description": "Um assistente educacional completo com IA para resolução de exercícios, criação de slides e tutoria personalizada.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
